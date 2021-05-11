@@ -1,38 +1,34 @@
 [<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
-# Lorem ipsum: Study
+
+# React Hooks & Component Lifecycle: Study
 
 Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along with the provided resources to research and answer the [questions below](#questions).
 
 ## Required Reading
 
-- [Lorem ipsum dolor sit amet](#)
-
-## Optional Reading
-
-- [Lorem ipsum dolor sit amet](#)
-
+- [Component Lifecycle](https://youtu.be/Oioo0IdoEls)
+- [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
 
 ## Questions
 
-1. Lorem ipsum dolor sit amet
+1. What are the motivations for introducting Hooks since React 16.8?
 
-    ```
-    Please write your answer here.
-    ```
+   ```
+   Please write your answer here.
+   ```
 
-1. Write an example Lorem ipsum dolor sit amet:
+2. Why component has lifecycle events?
 
-    ```js
-    /* Your Answer */
-    ```
+   ```
+   Please write your answer here.
+   ```
 
-1. Using a "Fist to Five", what is your comfort and clarity level?
+3. How do you perform clean up using `useEffect` hook?
 
-    ```
-    Comfort: 
-
-    Clarity: 
-    ```
+   ```
+   Please write your answer here.
+   ```
 
 ### Response Guidelines
 

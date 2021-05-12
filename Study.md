@@ -8,6 +8,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 
 - [Component Lifecycle](https://youtu.be/Oioo0IdoEls)
 - [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Rules of using Hooks](https://reactjs.org/docs/hooks-rules.html)
 - [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
 
 ## Questions
@@ -18,7 +19,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
    Please write your answer here.
    ```
 
-2. Why component has lifecycle events?
+2. Why do we need life cycles in components?
 
    ```
    Please write your answer here.

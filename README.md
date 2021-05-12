@@ -12,8 +12,8 @@ By the end of this, you should know:
 - The flow of lifecycle events in a functional component
 - Triggers for re-rendering of a component
 - What is the `useEffect` and its use-cases
-- How to perform "side effects" in functional components using `useEffect`
 - Cleaning up "side effects" using `useEffect` hook
+- Rules of using hooks
 
 By the end of this, you should be able to:
 

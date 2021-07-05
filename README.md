@@ -5,8 +5,6 @@
 ## Learning Objectives
 
 By the end of this, you should know:
-
-- Differences between Functional Components and Class Components
 - What are hooks and their use-cases
 - Why component have lifecycle events
 - The flow of lifecycle events in a functional component
@@ -14,12 +12,6 @@ By the end of this, you should know:
 - What is the `useEffect` and its use-cases
 - Cleaning up "side effects" using `useEffect` hook
 - Rules of using hooks
-
-By the end of this, you should be able to:
-
-- Make better consideration between a class and functional component.
-- Explain the motivation of introducing hooks in React.
-- Match the equivalent `useEffect` hooks with component life cycle.
 
 ## Instructions
 

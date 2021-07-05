@@ -5,27 +5,24 @@
 Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along with the provided resources to research and answer the [questions below](#questions).
 
 ## Required Reading
-
-- [Component Lifecycle](https://youtu.be/Oioo0IdoEls)
-- [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
-- [Rules of using Hooks](https://reactjs.org/docs/hooks-rules.html)
 - [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
+- [Component Lifecycle with useEffect video](https://github.com/SkillsUnion/react-hooks-lifecycle-study.git)
 
 ## Questions
 
-1. What are the motivations for introducting Hooks since React 16.8?
+1. How do you run useEffect hook when component mounts?
 
-   ```
+  ```
    Please write your answer here.
    ```
 
-2. Why do we need life cycles in components?
+2. How do you run useEffect hook when component unmounts
 
-   ```
+  ```
    Please write your answer here.
    ```
 
-3. How do you perform clean up using `useEffect` hook?
+3. How do you run useEffect hook when state changes
 
    ```
    Please write your answer here.

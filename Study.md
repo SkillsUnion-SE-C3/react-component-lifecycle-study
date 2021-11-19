@@ -13,19 +13,19 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. How do you run useEffect hook when component mounts?
 
   ```
-   Please write your answer here.
+   import from react and pass it into a function and it will run when it's mounting the component
    ```
 
 2. How do you run useEffect hook when component unmounts
 
   ```
-   Please write your answer here.
+   like the mounting it will run when you change the component to unmount from the page
    ```
 
 3. How do you run useEffect hook when state changes
 
    ```
-   Please write your answer here.
+   Running this as function within the useEffect hook. 
    ```
 
 ### Response Guidelines

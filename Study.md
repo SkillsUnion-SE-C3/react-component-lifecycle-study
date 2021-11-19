@@ -6,7 +6,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 
 ## Required Reading
 - [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
-- [Component Lifecycle with useEffect video](https://github.com/SkillsUnion/react-hooks-lifecycle-study.git)
+- [Component Lifecycle with useEffect video](https://www.youtube.com/watch?v=Zz9pLellSQA&t=609s)
 
 ## Questions
 
